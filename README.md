@@ -2,11 +2,11 @@
 - 
 - 👀 I’m interested in Java, spring, spring boot, Angular, Devops, node js
 - 
-- 🌱 I’m currently learning spring boot, aws, devops
+- 🌱 I’m currently working in spring boot, aws, devops
 - 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m passionate about tech and looking forward to contribute...
 - 
-- 📫 How to reach me ...
+- 📫 Thank you😊
 
 <!---
 ajuvdaivik/ajuvdaivik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
